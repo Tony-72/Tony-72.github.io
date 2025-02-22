@@ -1,8 +1,19 @@
 # Hello, my name is Tony.
-
-## I am hightly motivated self-taught cyber security enthusiast. I am an aspiring Cybersecurity SOC Analyst looking to break into the field by showcasing some of my skills and capabilities. I thrive in problems solving and critical thinking while utilizing my new and ever growing skill sets. I love bringing fresh perspective to common information security issues. My goal to continue expanding my cybersecurity skillset through versatile learning and practical hands-on experience so that I can provide safety and security to individuals, organizations, and their data.  
+  I am hightly motivated self-taught cyber security enthusiast and aspiring Cybersecurity SOC Analyst. I enjoy being innovative and utilizing creative critical thinking to hunt, find, analyse, and solve constantly evolving cybersecurity threats and problems. My goal is to continue expanding my cybersecurity skillset through versatile learning and practical hands-on experience so that I can provide safety and security to individuals, organizations, and their data.  
 
 ## Projects
+- Analysis and Investigations
+  - **Incident Report Analysis**
+  - **Suspicious Bank Deposit Investigation**
+- Audits
+  - **Security Audit**
+- Managing Authorization
+  - **Managing Authorization Using Linux CLI**
+  - **Managing Authorization Using Windows Powershell**
+- Python
+  - **Updating a file of IP addresses using Python**
+- SQL
+  - **SQL Database Filtering Using AND, NOT, and LIKE Operators**
 
 ## Certifications
 - CompTIA Security+ CE (March 2024)
