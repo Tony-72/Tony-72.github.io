@@ -1,5 +1,5 @@
 # Hello, my name is Tony.
-  I am hightly motivated self-taught cyber security enthusiast and aspiring Cybersecurity SOC Analyst. I enjoy being innovative and utilizing creative critical thinking to hunt, find, analyse, and solve constantly evolving cybersecurity threats and problems. My goal is to continue expanding my cybersecurity skillset through versatile learning and practical hands-on experience so that I can provide safety and security to individuals, organizations, and their data.  
+  I am hightly motivated self-taught Cybersecurity enthusiast and aspiring Cybersecurity SOC Analyst. I enjoy being innovative and utilizing creative critical thinking to hunt, find, analyse, and solve constantly evolving cybersecurity threats and problems. My goal is to continue expanding my cybersecurity skillset through versatile learning and practical hands-on experience so that I can provide safety and security to individuals, organizations, and their data.  
 
 ## Projects
 - Analysis and Investigations
