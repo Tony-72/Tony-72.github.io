@@ -1,4 +1,4 @@
-# Hello, my name is Tony
+# Hello, my name is Tony.
 
 ## I am hightly motivated self-taught cyber security enthusiast. I am an aspiring Cybersecurity SOC Analyst looking to break into the field by showcasing some of my skills and capabilities. I thrive in problems solving and critical thinking while utilizing my new and ever growing skill sets. I love bringing fresh perspective to common information security issues. My goal to continue expanding my cybersecurity skillset through versatile learning and practical hands-on experience so that I can provide safety and security to individuals, organizations, and their data.  
 
