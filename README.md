@@ -1,5 +1,5 @@
 <h1>Hi, I'm Tony! 
-<h2>I am a self-taught highly motivated Cybersecurity enthusiast aspiring to be a Cybersecurity SOC Analyst. I enjoy being innovative and using creative critical thinking to find, analyse, and address the constantly evolving cybersecurity threats. My goal is to continue advancing and expanding my skill set through diversified learning and relevant hands-on experience to better protect individual and organizations' privacy and data.<h2>
+<h4>I am a self-taught highly motivated Cybersecurity enthusiast aspiring to land my first Cybersecurity SOC Analyst job. I enjoy being innovative and using creative critical thinking to find, analyse, and address the constantly evolving cybersecurity threats. My goal is to continue advancing and expanding my skill set through diversified learning and relevant hands-on experience to better protect individual and organizations' privacy and data.<h4>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
